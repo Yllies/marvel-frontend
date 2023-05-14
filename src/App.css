@@ -1,0 +1,16 @@
+header img {
+  width: 120px;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+article {
+  width: 200px;
+}
+article img {
+  width: 100%;
+}
